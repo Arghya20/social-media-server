@@ -1,0 +1,4 @@
+.vercel
+vercel.josn
+node_modules
+config.env
